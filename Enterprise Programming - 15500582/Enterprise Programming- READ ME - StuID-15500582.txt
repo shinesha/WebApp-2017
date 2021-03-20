@@ -1,0 +1,33 @@
+READ ME
+
+Deploying, Publishing and Finding the Web Service. 
+
+NOTE: you may have to import google gson. 
+
+Part 1 Project Name- Try 5
+
+-Do not run the project as a whole.
+-Run any servlet.
+Guide to localhost:****/try4/index.html
+- From here, follow the links to invoke methods in AJAX.
+
+Part 2 RESTFUL - Project Name -  Web Service4.
+-Deploy the project.
+-Search individual methods in class 'CoursesWebService'
+e.g. Go to http://localhost:8084/WebService3/REST/WebService/getALLCoursesJson
+http://localhost:8084/WebService3/REST/WebService/getALLCoursesXML
+http://localhost:8084/WebService3/REST/WebService/getALLCoursesText
+	-NOTE: project name is WebService4 but URL is WebService3
+	 because the project was copied accross to avoid Tomcat errors
+	 but still invokes orginal URL. 
+
+Part 3 Google App Engine- Project Name CourseInfoWebServiceGAE3
+- Deploy the project
+- Go to localhost:8888/AddCourse.html
+	to add a course
+- Go to localhost:8888/ReturnAllCourses.jsp
+	to return all courses. 
+
+
+
+
